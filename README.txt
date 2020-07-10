@@ -1,0 +1,1 @@
+This is a bunch of shit I made for learning Lua on the PSP. I most likely won't fix any of these scripts if they ever break (they most likely won't though, since the homebrew I use doesn't get updated anymore.)
